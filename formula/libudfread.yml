@@ -1,0 +1,5 @@
+summary: Universal Disk Format reader
+webpage: https://code.videolan.org/videolan/libudfread
+version: 1.2.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/libudfread-1.2.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: 1c00b2b163b9a17af2205a9570bdcff3e18bf45a59947c3b34f41d42bd905aed

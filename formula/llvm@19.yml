@@ -1,0 +1,5 @@
+summary: Next-gen compiler infrastructure
+webpage: https://llvm.org/
+version: 19.1.7
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/llvm-19.1.7-MacOSX-15.0-arm64.tar.xz
+bin-sha: 5eb9711fa19169f10c1de98d6fcdd99ba9a98acb76a7e918806f214ffb136722

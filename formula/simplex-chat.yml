@@ -1,0 +1,5 @@
+summary: the first messaging network operating without user identifiers of any kind
+webpage: https://github.com/simplex-chat/simplex-chat/
+version: 6.4.8
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/simplex-chat-6.4.8-MacOSX-15.0-arm64.tar.xz
+bin-sha: d5a301fbdf0c3c692e2f7cc845476fb9d84284a8e78930c18d140fe937e0bc48

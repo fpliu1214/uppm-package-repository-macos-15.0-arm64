@@ -1,5 +1,5 @@
 summary: base64 encoder and decoder
 webpage: https://github.com/leleliu008/C-examples
-version: 2025.03.12
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/base64-2025.03.12-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 5aba81f215410e7b63237f074abc76b4dd388210d91ce685feda5a4f93e3f80b
+version: 2026.03.30
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/base64-2026.03.30-MacOSX-15.0-arm64.tar.xz
+bin-sha: 224c0b7a85976bc92d547ec461ef3530b06d802d230a2daa2c12ccb9a86ef128

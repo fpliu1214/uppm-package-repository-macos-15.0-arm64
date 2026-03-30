@@ -1,0 +1,5 @@
+summary: A command-line tools for diff & patch
+webpage: https://github.com/sisong/HDiffPatch/
+version: 4.12.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/hdiffpatch-4.12.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: bf9f93d61cebca45fbf6ea0094436fa99953a3f81472e776bdef2435b4cc1eb3

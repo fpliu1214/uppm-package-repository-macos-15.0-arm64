@@ -1,5 +1,5 @@
 summary: Cross-platform make
 webpage: https://www.cmake.org/
-version: 3.31.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/cmake-3.31.5-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 53203c18cbdf02ae227ddd26dbfec30ff63c88a678f08b738df2b3057853b35b
+version: 4.2.3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/cmake-4.2.3-MacOSX-15.0-arm64.tar.xz
+bin-sha: 40215a985f27230014a2b5f2c491f643c3596fd1b93bfe7fe8ed19837e7e5d2d

@@ -1,5 +1,5 @@
 summary: Interpreted, interactive, object-oriented programming language
 webpage: https://www.python.org/
-version: 3.11.11
-bin-url: https://github.com/leleliu008/python-distribution/releases/download/3.11.11/python-3.11.11-macos-15.0-arm64.tar.xz
-bin-sha: d8b7c2d0cb5bbadf512f4d06c66bfcf68cc0affc020186f334bb0508180604a2
+version: 3.14.3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/python3-3.14.3-MacOSX-15.0-arm64.tar.xz
+bin-sha: 0ba326889dca73fe8acba0df5a3bbe13c1ab3619adf8fbe95a3cf6bbe3e4d7e1

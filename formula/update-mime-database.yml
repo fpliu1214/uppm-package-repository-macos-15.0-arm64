@@ -1,0 +1,5 @@
+summary: A command-line tool to update the MIME database
+webpage: https://wiki.freedesktop.org/www/Software/shared-mime-info
+version: 2.4
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/update-mime-database-2.4-MacOSX-15.0-arm64.tar.xz
+bin-sha: 919ba70a7095332625123df73ee6b12d746e44d490b7ac6ddb71c6020cf95ae5

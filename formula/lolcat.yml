@@ -1,5 +1,5 @@
 summary: Rainbows and unicorns in your console
-webpage: https://github.com/jaseg/lolcat
-version: 1.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/lolcat-1.4-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: f4a79cfa8234fde774fd4cf14a54f57273df529d68e005a681c0aecbdb56431e
+webpage: https://github.com/jaseg/lolcat/
+version: 1.5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/lolcat-1.5-MacOSX-15.0-arm64.tar.xz
+bin-sha: 23c32e6a83f224653031f174d4190f852e4ecdc48195cb4bb4a8f554b3c05b35

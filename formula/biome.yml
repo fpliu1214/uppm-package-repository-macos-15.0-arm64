@@ -1,0 +1,5 @@
+summary: Toolchain of the web
+webpage: https://biomejs.dev/
+version: 2.4.7
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/biome-2.4.7-MacOSX-15.0-arm64.tar.xz
+bin-sha: 191c0095b0acf58f3ed32c91eace5a9cae084947b1a56e939b7dbe6309b74dcf

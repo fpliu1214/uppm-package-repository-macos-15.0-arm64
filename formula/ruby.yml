@@ -1,5 +1,5 @@
 summary: The officical ruby interpreter/runtime
 webpage: https://www.ruby-lang.org/
 version: 3.4.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/ruby-3.4.2-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 22b9b01d8e30af0b9a1befc80127fcd5ffe22bf84d1090363066921a06d9c44e
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/ruby-3.4.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: 56ac30b79a3ffbd2348b19052182b706bfb8638513993aaa397b58eb74e27c38

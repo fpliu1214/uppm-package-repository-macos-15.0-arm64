@@ -1,5 +1,5 @@
 summary: Git for Data
-webpage: https://github.com/dolthub/dolt
-version: 1.50.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/dolt-1.50.2-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 15a75623a4cbc2b4c19b7ffec2893027dbe33311b8008451cdcd70c85af519cb
+webpage: https://github.com/dolthub/dolt/
+version: 1.81.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/dolt-1.81.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: 72a7a926793c2cfb98f1f3ca6e705cfcaa73f1fa9ea130812cd3a337005abefa

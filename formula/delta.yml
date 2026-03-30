@@ -1,5 +1,5 @@
 summary: Syntax-highlighting pager for git and diff output
-webpage: https://github.com/dandavison/delta
-version: 0.17.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/delta-0.17.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 51aea5214beefcd29c5e9d005bfe53618149b336c417554e9bb3a0fa559e7e7e
+webpage: https://github.com/dandavison/delta/
+version: 0.18.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/delta-0.18.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: f3a5994c6a0098ccc2bc553d11feaa27e98e6b16826f7a13f6e441128a4c4fc9

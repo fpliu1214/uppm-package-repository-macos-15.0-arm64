@@ -1,5 +1,5 @@
 summary: Media player based on MPlayer and mplayer2
 webpage: https://mpv.io
-version: 0.39.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libmpv-0.39.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 93a1b4495b21649fd7a6a8d6ca83dd65ac32a39d0474e8f9cb913938f7ff820a
+version: 0.41.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/libmpv-0.41.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: e56d2a001f5f54665aadcb1f2b90579bc12fcd4db3c44db5127a3c73eb8d251c

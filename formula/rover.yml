@@ -1,5 +1,5 @@
 summary: CLI for managing and maintaining data graphs with Apollo Studio
 webpage: https://www.apollographql.com/docs/rover/
-version: 0.27.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/rover-0.27.2-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 36ba35756877f0d0b3df581d05dfe258df5b982331c5cf47683ba736d85eaaad
+version: 0.37.2
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/rover-0.37.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: 6d05e24dd9dac65d54e33e6f9c30ec8db9b21c574138a4ca2cadb8d36ab81424

@@ -1,0 +1,5 @@
+summary: Garbage collector for C and C++
+webpage: https://www.hboehm.info/gc/
+version: 8.2.10
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/libgc-8.2.10-MacOSX-15.0-arm64.tar.xz
+bin-sha: 0e1b37894ac75f808213b65459d8627c04f417870b2624dc139741f2356fa30e

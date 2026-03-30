@@ -1,5 +1,5 @@
 summary: A C library for parsing and emitting YAML
-webpage: https://github.com/yaml/libyaml
+webpage: https://github.com/yaml/libyaml/
 version: 0.2.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libyaml-0.2.5-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 5b63593d6dd403b0620fc14c6976bfd5079364886e9d91ab931c57e72e60b143
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/libyaml-0.2.5-MacOSX-15.0-arm64.tar.xz
+bin-sha: 62b752c920eb12aa1455553a2abbb99b776fba0d429bb2d7a0fbfe1b27706dc6

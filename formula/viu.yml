@@ -1,5 +1,5 @@
 summary: A simple terminal image viewer written in Rust
-webpage: https://github.com/atanunq/viu
-version: 1.5.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/viu-1.5.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 63ff5ebe9fcf42b2fed363d5bc407f7d3bf5cbcbff2d0a759e05fb5ca8591eca
+webpage: https://github.com/atanunq/viu/
+version: 1.6.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.2/viu-1.6.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: 3b61b3ba59f634ee7ac01918cdadd74eee1189b230a39fc9f2c3b3faf76a5f8c

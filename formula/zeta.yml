@@ -1,5 +1,5 @@
 summary: Header-only general purpose library
 webpage: https://github.com/redcode/Zeta
-version: 2025.03.12
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/zeta-2025.03.12-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 2fb1130f67771d38d3b17ddbce480963f700e53effddb5442b9c7e777198a889
+version: 2026.03.30
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.2/zeta-2026.03.30-MacOSX-15.0-arm64.tar.xz
+bin-sha: 33ac58aef949b92e59b73df393311d20b36203cfc81c944b87ca18b19c69ed09

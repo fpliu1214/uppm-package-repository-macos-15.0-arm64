@@ -1,0 +1,5 @@
+summary: X.Org Network Transport layer shared code
+webpage: https://www.x.org/
+version: 1.4.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.2/xtrans-1.4.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: 5c5f510a05df476dccceade64350d78dff988412bd49bcc25a0874d6a8ef28ea

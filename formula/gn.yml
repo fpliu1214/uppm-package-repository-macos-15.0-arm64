@@ -1,5 +1,5 @@
 summary: A meta-build system for generating build files for ninja
 webpage: https://gn.googlesource.com/gn
-version: 2025.03.12
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/gn-2025.03.12-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 19f99cd941039d3ad1371dcb25c698fc132aec433e69f19e082a5340ecf915fd
+version: 2026.03.30
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/gn-2026.03.30-MacOSX-15.0-arm64.tar.xz
+bin-sha: ceb4b1273e84c6d3494242e6d1736e85108246789d6654d0199fcd771f8116f5

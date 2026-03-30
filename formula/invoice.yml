@@ -1,5 +1,5 @@
 summary: A invoice generator
 webpage: https://github.com/maaslalani/invoice
 version: 0.1.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/invoice-0.1.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: c0d98e585c005297128b7cffcd5c3e7dfcf6fc39cdf1554481ffbb8e42d11bf8
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/invoice-0.1.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: 8d9e84ae3a3627531da19e0ee4cbbc63335cde77bf70dba5efe372ac48bc89e6

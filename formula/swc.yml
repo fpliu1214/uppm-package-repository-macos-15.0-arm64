@@ -1,0 +1,5 @@
+summary: A super-fast Rust-based JavaScript/TypeScript compiler
+webpage: https://swc.rs
+version: 1.15.18
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/swc-1.15.18-MacOSX-15.0-arm64.tar.xz
+bin-sha: 6763754ab3b04d684bccf630526d205e6faf9ca4cbec56061b47231ad66eac1f

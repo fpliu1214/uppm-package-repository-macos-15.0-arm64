@@ -1,0 +1,5 @@
+summary: A cross-platform TUI database management tool written in Go
+webpage: https://github.com/jorgerojas26/lazysql/
+version: 0.4.6
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/lazysql-0.4.6-MacOSX-15.0-arm64.tar.xz
+bin-sha: c7606be30502879db36d33288b0286c6d2dcf17407cac4f107937c2b9d5b940e

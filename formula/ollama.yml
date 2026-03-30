@@ -1,5 +1,5 @@
 summary: Create, run, and share large language models (LLMs)
 webpage: https://ollama.com/
-version: 0.5.7
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/ollama-0.5.7-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 0f22da23ce9f61700ccda98521df2698bd1f893f0a8e045ea78ccc17a4ad0890
+version: 0.13.5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/ollama-0.13.5-MacOSX-15.0-arm64.tar.xz
+bin-sha: 335025c103abb7db5460ec9f41d981964ba4ace11684be639309c466a308fecd

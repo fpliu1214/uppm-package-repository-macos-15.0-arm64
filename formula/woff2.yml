@@ -1,5 +1,5 @@
 summary: Utilities to create and convert Web Open Font File (WOFF) files
-webpage: https://github.com/google/woff2
+webpage: https://github.com/google/woff2/
 version: 1.0.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/woff2-1.0.2-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 5fbd9d9a04c79fcb4c4b1cf0d28c8c952d94638e57b8af83d76159c85b92d030
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.2/woff2-1.0.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: 056b1262d415898178fec670f59c71d8d0878616408947cdf5e2edc2d18ed759

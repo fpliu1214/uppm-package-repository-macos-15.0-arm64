@@ -1,0 +1,5 @@
+summary: Library for building efficient parsers
+webpage: https://www.netsurf-browser.org/projects/libparserutils/
+version: 0.2.5
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/libparserutils-0.2.5-MacOSX-15.0-arm64.tar.xz
+bin-sha: 9c232f9678d77a0d7cba03296dd7b6caa57f4a7baca93652f9196a3dce90a943

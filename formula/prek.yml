@@ -1,0 +1,5 @@
+summary: Pre-commit re-implemented in Rust
+webpage: https://github.com/j178/prek/
+version: 0.3.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/prek-0.3.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: 475c1ecf76e9460c67ee747d957ee68a2bb4f3880929edbcf8e76cecef388087

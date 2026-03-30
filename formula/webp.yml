@@ -1,5 +1,5 @@
 summary: Image format providing lossless and lossy compression for web images
 webpage: https://developers.google.com/speed/webp
-version: 1.4.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/webp-1.4.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 4bd64cd7885bf73216eaa9d55c0630713e4fae29f0f6e9ebae157e587329d2ae
+version: 1.6.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.2/webp-1.6.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: 9fa60609a59b0f66ea4be1471619d8d397e413a63cbc79b6105322c04064cf27

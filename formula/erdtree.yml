@@ -1,5 +1,5 @@
 summary: Multi-threaded file-tree visualizer and disk usage analyzer
-webpage: https://github.com/solidiquis/erdtree
+webpage: https://github.com/solidiquis/erdtree/
 version: 3.1.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/erdtree-3.1.2-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 65a2ba0dd8a40843818a1ba2f8b75dba59bea8a6b348fa6a7704be727c61feb3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/erdtree-3.1.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: 278bed4ebb83c624aed042c771d9b0b99f2aa90bca8dd44e9706d1c78e54913c

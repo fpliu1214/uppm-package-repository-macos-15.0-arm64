@@ -1,5 +1,5 @@
 summary: Low-level access to audio, keyboard, mouse, joystick and graphics
 webpage: https://www.libsdl.org/
 version: 2.32.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libsdl2-2.32.2-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 15d5663317c2513de46a147a9a4da6b44e65682feff34d70bb471e4ffbd4b5d3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/libsdl2-2.32.2-MacOSX-15.0-arm64.tar.xz
+bin-sha: 61948d3f02ce1e2420211b2b10fa6fa3a4cf3e369fa780700748e93bc2ee180f

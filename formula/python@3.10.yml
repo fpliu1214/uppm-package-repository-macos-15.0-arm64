@@ -1,0 +1,5 @@
+summary: Interpreted, interactive, object-oriented programming language
+webpage: https://www.python.org/
+version: 3.10.16
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/python-3.10.16-MacOSX-15.0-arm64.tar.xz
+bin-sha: 399b1fa071886a2b8df43579802904def5a3bce64e1ffca788dc71bf46a099ad

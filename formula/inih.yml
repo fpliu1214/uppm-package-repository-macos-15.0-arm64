@@ -1,5 +1,5 @@
 summary: A simple .ini file parser in C
-webpage: https://github.com/benhoyt/inih
-version: r58
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/inih-r58-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 49a6b8c2ed0904d8211df62022ace7558d1e4ec761e31e26a1f3e203707baef9
+webpage: https://github.com/benhoyt/inih/
+version: 62
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/inih-62-MacOSX-15.0-arm64.tar.xz
+bin-sha: 4f1c9f5c37027f7eef1edfb028f4b512b9244a0ab8e47f5d6b44d9e445c7f281

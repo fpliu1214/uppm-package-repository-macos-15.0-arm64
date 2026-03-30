@@ -1,5 +1,5 @@
 summary: Double-Array Trie Library
 webpage: https://linux.thai.net/~thep/datrie/datrie.html
-version: 0.2.13
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/libdatrie-0.2.13-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 38334f13dee0e68330066a58070e8f471e29dea61beb49b3db8acb7527ac4742
+version: 0.2.14
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/libdatrie-0.2.14-MacOSX-15.0-arm64.tar.xz
+bin-sha: fa50028f74ea5d1a191b21c6547a11366bc972bf00aa61d8e9a3d3140b6f536d

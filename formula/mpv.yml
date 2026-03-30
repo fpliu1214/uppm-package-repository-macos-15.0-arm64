@@ -1,5 +1,5 @@
-summary: Media player based on MPlayer and mplayer2
+summary: A free, open source, and cross-platform media player based on MPlayer and mplayer2
 webpage: https://mpv.io
-version: 0.39.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-15.0-arm64/releases/download/2025.03.12/mpv-0.39.0-MacOSX-15.0-arm64.release.tar.xz
-bin-sha: 565fef43e3a75724f4eaf9fdc2f300dafb0b82b15f12a9998505787b9e76c589
+version: 0.41.0
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/mpv-0.41.0-MacOSX-15.0-arm64.tar.xz
+bin-sha: d69770ac283b247719b69f910c2316ea01c6320dc8b36d90e175e91f452e62e5

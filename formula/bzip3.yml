@@ -1,0 +1,5 @@
+summary: A better and stronger spiritual successor to BZip2
+webpage: https://github.com/kspalaiologos/bzip3/
+version: 1.5.3
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/bzip3-1.5.3-MacOSX-15.0-arm64.tar.xz
+bin-sha: 6703d6834c6935a06749048b0bee0427112aa5cdcb31a2f69863640c61301ba1

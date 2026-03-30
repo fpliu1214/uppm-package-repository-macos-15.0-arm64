@@ -1,0 +1,5 @@
+summary: Improved shell history for zsh, bash, fish, nushell
+webpage: https://github.com/atuinsh/atuin/
+version: 18.12.1
+bin-url: https://github.com/fpliu1214/uppm-package-repository-macos-15.0-arm64/releases/download/2026.03.30.1/atuin-18.12.1-MacOSX-15.0-arm64.tar.xz
+bin-sha: 118ff446a54ce5b9b4d3c0a0d390c2f90a297c83fa59e075b12dba8ad6174367
